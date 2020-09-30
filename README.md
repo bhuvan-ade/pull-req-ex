@@ -1,7 +1,7 @@
 # Pull Requestの練習
 
 ## このrepositoryについて
-- このrepositoryはPull Requestの練習用です。
+ - このrepositoryはPull Requestの練習用です。
 
 ## 練習
 1. このrepositoryをforkする。
