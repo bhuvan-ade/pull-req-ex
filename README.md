@@ -10,3 +10,4 @@
 1. commitする。
 1. pushする。
 1. GitHubのページからPull Requestをする。
+****
